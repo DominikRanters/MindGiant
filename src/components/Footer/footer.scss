@@ -1,0 +1,13 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  background-color: rgba(00, 00, 00, 0.2);
+  width: 100%;
+  padding: 50px;
+  box-sizing: border-box;
+  text-align: center;
+
+  &__headline {
+    font-size: 60px;
+  }
+}

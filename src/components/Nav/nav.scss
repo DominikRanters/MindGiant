@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+
+  &__tests,
+  &__blog,
+  &__images {
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+    margin: auto 30px;
+  }
+
+  &__tests {
+
+  }
+
+  &__blog {
+
+  }
+
+  &__aboutMe {
+
+  }
+}
